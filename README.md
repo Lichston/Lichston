@@ -2,9 +2,9 @@
 
 <p>Atualmente estudante de Sistemas de informação pela PUCRS e estagiário na empresa CDNTV, onde atuo como analista júnior de redes e monitoramento.</p>
 <br>
-<a>
-<img height=50 src="https://github.com/Lichston/Lichston/blob/main/imagens/internet-webcore.gif?raw=true" alt="internet-webcore" align="left">
-    <img height=50 src="https://github.com/Lichston/Lichston/blob/main/imagens/internet-webcore.gif?raw=true" alt="internet-webcore" align="right"> </a>
+<div align="center">
+<img height=50 src="https://github.com/Lichston/Lichston/blob/main/imagens/internet-webcore.gif?raw=true" alt="internet-webcore" align="center">
+ </div>
   <br>
 </a>
 
